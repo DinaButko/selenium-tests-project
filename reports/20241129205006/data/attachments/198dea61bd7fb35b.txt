@@ -1,0 +1,2 @@
+INFO     pages.tests.test_home:test_home.py:19 Test 4 started
+INFO     pages.tests.test_home:test_home.py:24 Test 4 successfully completed

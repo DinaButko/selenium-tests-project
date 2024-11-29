@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Nov 29 20:49:34 UTC 2024","Fri Nov 29 20:49:34 UTC 2024","139","pages.tests","test_home","","","","test_test3","Test 3 - Verifies dropdown functionality and selection updates in Test 3 section."
+"passed","Fri Nov 29 20:49:32 UTC 2024","Fri Nov 29 20:49:33 UTC 2024","582","pages.tests","test_home","","","","test_test1","Test 1 - Verifies email, password inputs, and login button functionality."
+"passed","Fri Nov 29 20:49:43 UTC 2024","Fri Nov 29 20:49:43 UTC 2024","21","pages.tests","test_home","","","","test_test6","Test 6 - Verifies the value of a specific table cell."
+"passed","Fri Nov 29 20:49:33 UTC 2024","Fri Nov 29 20:49:33 UTC 2024","41","pages.tests","test_home","","","","test_test2","Test 2 - Verifies the list items and their details in Test 2 section."
+"passed","Fri Nov 29 20:49:35 UTC 2024","Fri Nov 29 20:49:42 UTC 2024","7223","pages.tests","test_home","","","","test_test5","Test 5 - Verifies dynamic button appearance and success message functionality."
+"passed","Fri Nov 29 20:49:35 UTC 2024","Fri Nov 29 20:49:35 UTC 2024","37","pages.tests","test_home","","","","test_test4","Test 4 - Verifies button states in Test 4 section."
