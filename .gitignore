@@ -1,0 +1,7 @@
+
+utilities/__pycache__/__init__.cpython-311.pyc
+utilities/__pycache__/logger.cpython-311.pyc
+pages/tests/__pycache__/__init__.cpython-311.pyc
+pages/tests/__pycache__/conftest.cpython-311-pytest-8.3.3.pyc
+pages/tests/__pycache__/test_home.cpython-311-pytest-8.3.3.pyc
+*.pyc
